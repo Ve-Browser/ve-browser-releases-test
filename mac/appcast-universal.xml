@@ -1,14 +1,6 @@
 <?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<rss version="2.0">
     <channel>
         <title>Ve</title>
-        <item>
-            <title>0.0.2</title>
-            <pubDate>Sun, 18 Oct 2026 12:46:52 +0000</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Ve-Browser/ve-browser-releases-test/releases/download/v0.0.2/Ve-0.0.2-universal.dmg" length="500000" type="application/octet-stream" sparkle:edSignature="uuaFfLokAir9sYIl7mHx9hQf22P+fOJ/KMONsmUWM9Skcjtm1+EMqM7CL5pKoISrpOWr9UQhAyp8tZcOXhfTAQ==" />
-        </item>
     </channel>
 </rss>
