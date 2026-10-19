@@ -3,6 +3,16 @@
     <channel>
         <title>Ve</title>
         <item>
+            <title>0.0.163</title>
+            <pubDate>Mon, 19 Oct 2026 06:43:22 +0000</pubDate>
+            <sparkle:version>163</sparkle:version>
+            <sparkle:shortVersionString>0.0.163</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description>&lt;p&gt;&lt;b&gt;TEST ARTIFACT&lt;/b&gt; (held E13 candidate 0.0.163) published to the TEST repo only to validate the Pages feed path. Not a release.&lt;/p&gt;
+</description>
+            <enclosure url="https://github.com/Ve-Browser/ve-browser-releases-test/releases/download/v0.0.163/Ve-0.0.163-arm64.dmg" length="477874898" type="application/octet-stream" sparkle:edSignature="F1SGEnRjRphLElsM5lS3ajMtF/IN2AmLxHKMvasCvVFofTgkd1n8CZS9xsCg3JwAqqJff7bS7DXbQ/gy+/dXDw==" />
+        </item>
+        <item>
             <title>0.0.3</title>
             <pubDate>Sun, 18 Oct 2026 12:53:02 +0000</pubDate>
             <sparkle:version>3</sparkle:version>
