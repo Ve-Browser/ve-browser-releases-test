@@ -3,6 +3,16 @@
     <channel>
         <title>Ve</title>
         <item>
+            <title>0.0.171</title>
+            <pubDate>Thu, 22 Oct 2026 12:46:29 +0000</pubDate>
+            <sparkle:version>1711</sparkle:version>
+            <sparkle:shortVersionString>0.0.171</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Ve 0.0.171&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;The sidebar has a Browser hub, and you can ask Ve about a browser tab.&lt;/li&gt;&lt;li&gt;An attached page in the composer now takes one slim line, and the input below it starts at one line and grows as you type.&lt;/li&gt;&lt;li&gt;In Ve Code every repository is a workspace: Ve clones it for the agent, or you can clone it here in one click.&lt;/li&gt;&lt;li&gt;Assistant replies no longer show a &amp;quot;Ve&amp;quot; label above them, and the Copy tooltip never covers the reply.&lt;/li&gt;&lt;li&gt;A hovered row in the Settings sidebar no longer looks like a second selected row.&lt;/li&gt;&lt;li&gt;Closing a web tab selects the next shown tab instead of jumping to a hidden Ve Code view.&lt;/li&gt;&lt;li&gt;A new tab no longer opens as a black page.&lt;/li&gt;&lt;li&gt;The link in a workspace invitation email, and ve://invite links, open the invitation page in Ve.&lt;/li&gt;&lt;li&gt;A Settings link opens Ve Code&amp;#x27;s Settings view instead of the Work Settings tab.&lt;/li&gt;&lt;li&gt;A message that may not have been delivered keeps its text and offers Send again, without sending it twice.&lt;/li&gt;&lt;li&gt;A stuck turn now has real exits: send your message as a new one, or force the work to stop.&lt;/li&gt;&lt;li&gt;A background restart waits for running Ve Code work and open terminals instead of interrupting them.&lt;/li&gt;&lt;li&gt;The Welcome GitHub step can reopen a closed sign-in tab.&lt;/li&gt;&lt;li&gt;Touch ID passkeys for the Ve Vault are not available in this version.&lt;/li&gt;&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/Ve-Browser/ve-browser-releases-test/releases/download/v0.0.171/Ve-0.0.171-arm64.dmg" length="461003053" type="application/octet-stream" sparkle:edSignature="eIYrzvLwWOd0xSe4NCqTUOwxC+VdU3G3i6GfkLKScaa9QW9/pvUrd5OzkhinPCztwDtY7KzZPup/RrcRUPcrBg==" />
+        </item>
+        <item>
             <title>1.2.3</title>
             <pubDate>Tue, 20 Oct 2026 13:39:43 +0000</pubDate>
             <sparkle:version>1301</sparkle:version>
